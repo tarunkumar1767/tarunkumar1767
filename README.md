@@ -12,14 +12,13 @@
 
 ## 💫 About Me
 
-🎓 **B.Tech in Artificial Intelligence & Machine Learning**
-🏫 Jagannath University, Haryana
-💻 Interested in **AI Engineering, Machine Learning & Software Development**
-🤖 Building practical applications using **Python, TensorFlow, PyTorch & Scikit-learn**
-👁️ Exploring **Computer Vision, Deep Learning & Generative AI**
-☁️ Learning **Cloud Technologies & AI deployment**
-🏆 Participating in **Hackathons, Coding Competitions & Technical Projects**
-📚 Continuously improving my skills through projects, certifications and experimentation
+🎓 **B.Tech in Artificial Intelligence & Machine Learning**<br>
+💻 Interested in **AI Engineering, Machine Learning & Software Development**<br>
+🤖 Building practical applications using **Python, TensorFlow, PyTorch & Scikit-learn**<br>
+👁️ Exploring **Computer Vision, Deep Learning & Generative AI**<br>
+☁️ Learning **Cloud Technologies & AI deployment**<br>
+🏆 Participating in **Hackathons, Coding Competitions & Technical Projects**<br>
+📚 Continuously improving my skills through projects, certifications and experimentation<br>
 
 > 🚀 **My goal:** Build useful AI-powered applications that solve real-world problems.
 
@@ -125,47 +124,6 @@ DSA & Problem Solving       ████████████████░�
 <img src="https://streak-stats.demolab.com/?user=tarunkumar1767&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tarunkumar1767&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-</p>
-
-### 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkumar1767&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🐍 My Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tarunkumar1767&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-# 📚 Certifications & Learning
-
-🎓 **AWS — Developing Generative Artificial Intelligence Solutions**
-🎓 **AWS — Fundamentals of Machine Learning and Artificial Intelligence**
-🎓 **AWS — Exploring AI Use Cases and Applications**
-🎓 **AWS — Responsible Artificial Intelligence Practices**
-📊 **Tata — GenAI Powered Data Analytics Job Simulation**
-📊 **Deloitte — Data Analytics Job Simulation**
-🐼 **Kaggle — Pandas**
-💻 **HackerRank — Problem Solving (Basic)**
-
 ---
 
 # 🏆 Achievements
@@ -226,12 +184,3 @@ DSA & Problem Solving       ████████████████░�
 
 </p>
 
----
-
-<p align="center">
-
-### 💭 "Learn → Build → Break → Improve → Repeat."
-
-⭐ **If you find my projects useful, consider giving them a star!**
-
-</p>
