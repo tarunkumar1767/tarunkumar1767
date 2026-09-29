@@ -1,18 +1,237 @@
-# 💫 About Me:
-👋 Hi, I'm Tarun Kumar<br><br>🎓 B.Tech AI & ML student at Jagannath University<br>🤖 Passionate about Artificial Intelligence, Machine Learning & Computer Vision<br>🐍 Building real-world projects with Python, TensorFlow, PyTorch & Scikit-learn<br>🚀 Exploring Generative AI, Deep Learning & Cloud Technologies<br>💡 Interested in turning ideas into practical AI-powered applications<br>🏆 Actively participating in hackathons, coding competitions & open-source projects
+# 👋 Hi, I'm Tarun Kumar
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Python+Developer;Aspiring+AI+Engineer;Computer+Vision+Enthusiast;Building+AI+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tarun-kumar-a6731b355/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarunkataria439@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tarunkumar1767&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=tarunkumar1767&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tarunkumar1767&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tarunkumar1767&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=tarunkumar1767&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+🎓 **B.Tech in Artificial Intelligence & Machine Learning**
+🏫 Jagannath University, Haryana
+💻 Interested in **AI Engineering, Machine Learning & Software Development**
+🤖 Building practical applications using **Python, TensorFlow, PyTorch & Scikit-learn**
+👁️ Exploring **Computer Vision, Deep Learning & Generative AI**
+☁️ Learning **Cloud Technologies & AI deployment**
+🏆 Participating in **Hackathons, Coding Competitions & Technical Projects**
+📚 Continuously improving my skills through projects, certifications and experimentation
+
+> 🚀 **My goal:** Build useful AI-powered applications that solve real-world problems.
+
+---
+
+# 🧠 What I'm Working On
+
+```text
+Artificial Intelligence     ████████████████████░░░░  Exploring
+Machine Learning            █████████████████████░░░  Building
+Deep Learning               ██████████████████░░░░░░  Learning
+Computer Vision             █████████████████░░░░░░░  Building
+Generative AI               ███████████████░░░░░░░░░  Exploring
+Cloud / AWS                 ████████████░░░░░░░░░░░░  Learning
+DSA & Problem Solving       ████████████████░░░░░░░░  Improving
+```
+
+> The bars represent my current learning focus, not measured proficiency scores.
+
+---
+
+# 🛠️ Technical Skills
+
+### 👨‍💻 Programming
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+</p>
+
+### 📊 Data Science
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Tools
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🖼️ Image Caption Generator
+
+**Tech:** `Python` `TensorFlow` `CNN` `LSTM` `Flask`
+
+> Deep learning application that automatically generates natural-language descriptions for uploaded images.
+
+**Highlights**
+
+* 🧠 CNN for image feature extraction
+* 🔤 LSTM for caption generation
+* 📚 Trained using the Flickr8k dataset
+* 🌐 Flask-based web interface
+* 📊 Evaluated using BLEU score
+
+---
+
+## 🌍 AQI Prediction System
+
+**Tech:** `Python` `Scikit-learn` `XGBoost` `Matplotlib` `Seaborn`
+
+> Machine learning application designed to predict Air Quality Index using environmental parameters.
+
+**Features**
+
+* 🌫️ PM2.5 & PM10 analysis
+* 🧪 NO₂, CO & SO₂ parameters
+* 🤖 Random Forest & XGBoost models
+* ⚙️ Feature engineering
+* 📈 Data visualization
+* 📊 Interactive dashboard
+
+---
+
+# 📈 GitHub Analytics
+
+### 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=tarunkumar1767&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tarunkumar1767&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+</p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkumar1767&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🐍 My Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tarunkumar1767&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+# 📚 Certifications & Learning
+
+🎓 **AWS — Developing Generative Artificial Intelligence Solutions**
+🎓 **AWS — Fundamentals of Machine Learning and Artificial Intelligence**
+🎓 **AWS — Exploring AI Use Cases and Applications**
+🎓 **AWS — Responsible Artificial Intelligence Practices**
+📊 **Tata — GenAI Powered Data Analytics Job Simulation**
+📊 **Deloitte — Data Analytics Job Simulation**
+🐼 **Kaggle — Pandas**
+💻 **HackerRank — Problem Solving (Basic)**
+
+---
+
+# 🏆 Achievements
+
+* 🥇 Participating in national-level hackathons and coding competitions
+* 💻 Building AI/ML projects and maintaining a technical portfolio
+* 📚 Continuously expanding knowledge in AI and emerging technologies
+* 🚀 Exploring Generative AI and real-world AI applications
+
+---
+
+# 🎯 2026 Learning Roadmap
+
+```text
+                 MY AI/ML JOURNEY
+
+                        ┌───────────────┐
+                        │   Python      │
+                        └───────┬───────┘
+                                ↓
+                        ┌───────────────┐
+                        │ Data Science  │
+                        └───────┬───────┘
+                                ↓
+                        ┌───────────────┐
+                        │ Machine       │
+                        │ Learning      │
+                        └───────┬───────┘
+                                ↓
+                        ┌───────────────┐
+                        │ Deep Learning │
+                        └───────┬───────┘
+                                ↓
+                    ┌───────────┴───────────┐
+                    ↓                       ↓
+             Computer Vision          Generative AI
+                    │                       │
+                    └───────────┬───────────┘
+                                ↓
+                        ┌───────────────┐
+                        │ AI Engineering│
+                        └───────────────┘
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/tarun-kumar-a6731b355/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tarunkataria439@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💭 "Learn → Build → Break → Improve → Repeat."
+
+⭐ **If you find my projects useful, consider giving them a star!**
+
+</p>
