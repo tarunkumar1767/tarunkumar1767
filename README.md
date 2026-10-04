@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tarunkumar1767&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+ 
 </p>
 
 ---
@@ -99,9 +99,7 @@ DSA & Problem Solving       ████████████████░�
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛡️ ScamShield AI — Personal Digital Safety Assistant
+## 🛡️ ScamShield AI — Personal Digital Safety Assistant
 
 **Tech:** `React` `TypeScript` `Tailwind CSS` `Python` `FastAPI` `Supabase` `Gemini AI` `OCR`
 
