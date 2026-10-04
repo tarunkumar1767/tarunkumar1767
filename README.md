@@ -99,6 +99,29 @@ DSA & Problem Solving       ████████████████░�
 
 ---
 
+## 🚀 Featured Projects
+
+### 🛡️ ScamShield AI — Personal Digital Safety Assistant
+
+**Tech:** `React` `TypeScript` `Tailwind CSS` `Python` `FastAPI` `Supabase` `Gemini AI` `OCR`
+
+> AI-powered cybersecurity assistant that detects potential scams in suspicious messages, URLs, and screenshots and provides actionable safety guidance.
+
+**Highlights**
+
+- 🤖 **Gemini AI** for intelligent scam and risk assessment
+- 🛡️ **Scam detection** for phishing, banking, payment, impersonation, job, investment and other scams
+- 📸 **OCR-based screenshot scanning** for extracting and analyzing suspicious text
+- 🔗 **URL security analysis** using structural and heuristic checks
+- 📊 **Risk scoring** with SAFE, LOW, MEDIUM, HIGH and CRITICAL levels
+- 🔐 **Supabase authentication** with protected user accounts
+- 📝 **Scan history** for reviewing previous security assessments
+- 🆘 **Safety Center** with practical cybersecurity guidance
+- ⚡ **Deterministic fallback analysis** when the AI provider is unavailable
+- 🌐 **Live deployment** using Vercel + Render
+
+---
+
 ## 🌍 AQI Prediction System
 
 **Tech:** `Python` `Scikit-learn` `XGBoost` `Matplotlib` `Seaborn`
